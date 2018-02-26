@@ -1,8 +1,29 @@
+aside{
+  background-color: #DDDDDD;
+}
+
+#perfil-foto img{
+  border-radius: 50%;
+}
+
 h2{
-  font: 1.5em/1.5 Verdana, Helvetica, sans-serif;
-  color: blue;
+  border-bottom: 5px solid white;
+  text-transform: uppercase;
+  font: 1.3em/1.5 Verdana, Helvetica, sans-serif;
+  color: #054787;
+  letter-spacing: 3px;
 }
 
 h1{
   font: 2em/1.5 Verdana, Helvetica, sans-serif;
+
+}
+
+.general{
+  font: 1em/1.5 Verdana, Helvetica;
+}
+
+p{
+  background-color: #A6D9DA;
+  letter-spacing: 1.5px;
 }
