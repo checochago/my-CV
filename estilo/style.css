@@ -1,9 +1,31 @@
+/* LAYOUT */
+.main-container{
+  display: flex;
+  width: 1200px;
+}
+
+/* ASIDE */
 aside{
   background-color: #DDDDDD;
+  width: 34%;
+  margin-right: 3%;
 }
 
 #perfil-foto img{
   border-radius: 50%;
+}
+
+.contacts img{
+  border-radius: 50%;
+}
+
+.cont{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cont article{
+  width: 50%;
 }
 
 h2{
