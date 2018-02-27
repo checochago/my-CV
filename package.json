@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/checochago/my-CV#readme",
   "dependencies": {
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.7.2"
+  },
+  "devDependencies": {
+    "sass": "^1.0.0-beta.5.2"
   }
 }
