@@ -1,0 +1,28 @@
+{
+  "name": "my-cv",
+  "version": "1.0.0",
+  "description": "Un resumen de mu vida de aprendizaje\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cun bonito CV\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[U\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/checochago/my-CV.git"
+  },
+  "keywords": [
+    "Sergio",
+    "De",
+    "Santiago",
+    "<checomigue_sm97@hotmail.com>"
+  ],
+  "author": "Sergio De Santiago <\u001b[A\u001b[Bchecomigue_sm97@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/checochago/my-CV/issues"
+  },
+  "homepage": "https://github.com/checochago/my-CV#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
